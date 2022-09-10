@@ -16,4 +16,4 @@ function caseSwitch(val){
             break;    }
         return answer;
 }
-console.log(caseSwitch(2));
+console.log(caseSwitch(2)); //change this
