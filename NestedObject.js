@@ -6,7 +6,6 @@ var myStorage = {
         },
         "outside": {
             "trunk": "jack"
-        
          }
         }
       };
