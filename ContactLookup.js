@@ -1,7 +1,7 @@
 var contacts = [
     {
-        "firstName": "Michelle",
-        "lastName": "Mouton",
+        "firstName": "michelle",
+        "lastName": "mouton",
         "number": "1987234634",
         "likes": ["vroom","audi"]
     },
